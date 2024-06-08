@@ -1,0 +1,4 @@
+baseURL = 'https://ronitkapoor.com/'
+languageCode = 'en-us'
+title = 'Ronit Kapoor'
+theme = 'ananke'
